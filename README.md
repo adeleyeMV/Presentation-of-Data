@@ -1,4 +1,4 @@
-# Top 3 Python Packages For Data Visualization: A Comparative Analysis
+# Top 3 Python Packages For Data presentation: A Comparative Analysis
 
 ![alt text](media/image1.jpg)
 
